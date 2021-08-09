@@ -1,0 +1,28 @@
+.concludeButton {
+    width: 100%;
+    max-width: 136px;
+    height: 36px;
+    font-size: 12px;
+    background: #323751 !important;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 2;
+    &:hover {
+        border-width: 2;
+    }
+    border: 0px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+}
+
+.iconConcludeButton {
+    font-size: 30px;
+    position: absolute;
+    right: 3px;
+}
+
+.label-conclude{
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: none;
+    color: white;
+}

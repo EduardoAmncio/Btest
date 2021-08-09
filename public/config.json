@@ -1,0 +1,8 @@
+{
+  "api": {
+    "baseUrl": "https://localhost:5001",
+    "defaultHeaders": {
+      "ApiVersion": 1
+    }
+  }
+}

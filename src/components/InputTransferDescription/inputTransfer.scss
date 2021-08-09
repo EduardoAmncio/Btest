@@ -1,0 +1,23 @@
+.inputBackground{
+    width: 100%;
+    #inputTransfer{
+        height: 5px;
+    }
+}
+
+#inputTransfer{
+    text-align: center;
+    font-weight: 400;
+    color: #555555;
+}
+
+#inputTransfer::placeholder{
+    text-align: center;
+}
+
+#labelId{
+    font-size: 12px;
+    padding-left: 5px;
+    font-weight: 500;
+    color: #555555;
+}

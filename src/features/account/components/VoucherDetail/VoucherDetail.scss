@@ -1,0 +1,37 @@
+.containerVoucherDetail{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+
+.containerVoucherDetail .propButtonVoucherDetail {
+   
+    width: 54px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 5px;
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 8px;
+}
+
+.containerVoucherDetail .propButtonVoucherDetail .iconVoucherDetail {
+    width: 14px;
+    height: 14px;
+    display: flex;
+    margin-top: -6px;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.containerVoucherDetail .propButtonVoucherDetail .label{
+    font-size: 8px;
+}

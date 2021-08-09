@@ -1,0 +1,13 @@
+export const nextLabel = "Próximo";
+export const returnLabel = "Voltar";
+export const cancelLabel = "Cancelar";
+export const confirmLabel = "Confirmar";
+export const concludeLabel = "Concluir";
+export const closeLabel = "Fechar";
+export const activateCardLabel = "Ativar meu cartão";
+export const activateAccountLabel = "Ativar minha conta"
+export const accessAccountLabel = "Acessar minha conta";
+export const settingsLabel = "Configurações";
+export const saveLabel = "Salvar";
+export const shareLabel = "Compartilhar";
+export const scheduleLabel = "Agendar";

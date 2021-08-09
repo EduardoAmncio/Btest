@@ -1,0 +1,1 @@
+export { VoucherDetail } from "./VoucherDetail";

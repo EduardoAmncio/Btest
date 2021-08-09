@@ -1,0 +1,1 @@
+export { TagsExtract } from "./TagsExtract";

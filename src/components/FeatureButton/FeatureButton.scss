@@ -1,0 +1,36 @@
+.ftButton {
+    width: 100%;
+    max-width: 140px;
+    height: 120px;
+    padding: 2px;
+    margin-right: 15px;
+    background-color: white;
+    border: 0.5px solid #E8E8E8;
+    border-radius: 4px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+    &:hover {
+        border-width: 2,
+    }
+    border: 0px;
+}
+
+.ftButton .propButton {
+    padding: 10;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ftButton .iconFtButton {
+    display: absolute;
+    width: 64px;
+    height: 64px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.ftButton .label {
+    width: 100px;
+}

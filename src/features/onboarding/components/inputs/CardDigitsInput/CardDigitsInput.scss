@@ -1,0 +1,32 @@
+.digitscard-body {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.digitscard-body .label-digitscard {
+    width: 100%;
+    text-align: left;
+    color: #555555;
+}
+
+.digitscard-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.digitscard-content .digitscard-input div {
+    display: flex;
+    flex-direction: row;
+}
+
+.digitscard-content .digitscard-input input {
+    margin-right: 32px;
+    font-size: 45px;
+    border: 0.8px solid #c4c4c4;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
